@@ -1,0 +1,25 @@
+.navbar{
+    display: inline-block;
+    width: fit-content;
+    margin-left: 7em;
+}
+
+h3{
+    margin-right: 3em;
+    text-decoration: none;
+}
+
+.navbarlink{
+    text-decoration: none;
+    color: black;
+}
+
+.navbarlink:hover{
+    color:#F58023;
+    text-decoration: none;
+}
+
+.navbar{
+    /* display: flex; */
+    justify-content: center;
+}

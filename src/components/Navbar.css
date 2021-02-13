@@ -1,12 +1,17 @@
 .navbar{
     display: inline-block;
     width: fit-content;
-    margin-left: 7em;
+    margin-left: 1em;
 }
 
 h3{
-    margin-right: 3em;
+    margin-right: 1em;
     text-decoration: none;
+    text-align: center;
+}
+
+div{
+    text-align: center;
 }
 
 .navbarlink{

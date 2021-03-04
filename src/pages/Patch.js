@@ -7,6 +7,7 @@ const Patch = function() {
         <h2>Most Recent Site Changes</h2> 
         <p>Patch v1.0.0 - Site is deployed!</p>
         <p>Patch v1.0.1 - Added fonts, colors, and aligned elements on the page</p>
+        <p>Patch v1.1.1 - Added Slideshow</p>
         </div>
     )
 }

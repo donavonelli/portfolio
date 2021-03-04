@@ -14,17 +14,12 @@ div{
     text-align: center;
 }
 
-.navbarlink{
-    text-decoration: none;
-    color: black;
-}
-
-.navbarlink:hover{
-    color:#F58023;
+.navbar:hover{
+    color:#64debd;
     text-decoration: none;
 }
 
 .navbar{
-    /* display: flex; */
+    font-family: 'Acme', sans-serif;
     justify-content: center;
 }
